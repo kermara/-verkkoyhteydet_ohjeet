@@ -1,0 +1,48 @@
+Lataa 
+
+http://www.analogx.com/contents/download/Network/sswww/Freeware.htm
+
+Tee html-sivut tekstiedosto.
+
+Kytke pois virtuaaliverkkoyhteydet:
+
+Ohjauspaneeli\Verkko ja Internet\Verkkoyhteydet (windows)
+
+
+Käynnistä virtuaaliserveri.
+
+Hae kotisivutiedosto.
+
+Käynnistä serveri.
+
+Sisäinen verkko-osoite näkyy virtuaaliserverin yläosassa.
+
+Testaa sisäiset yhteydet eri koneiden välillä.
+
+Tarkista palomuuriasetukset ja poista/salli tarvittaessa.
+
+Säädä modeemiasetuksista portteja.
+
+port forwarding:
+External port 8000, 8001
+
+Selvitä internetin ulkoinen osoite:
+https://whatismyipaddress.com/
+
+Kokeile ulkoisella laitteella käyttäen annettua ip-osoitetta ja porttinumeroa.
+
+
+Luo ilmainen domain osoitteessa: 
+https://www.noip.com/
+
+Kokeile domain:porttinumero.
+
+Boxin asetukset: DDNS-asetukset
+valitse
+https://www.noip.com/
+
+laita sivuston käyttäjätunnus ja salasana
+
+Kokeile domain:porttinumero.
+
+DHCP-staattinen määritelmä
